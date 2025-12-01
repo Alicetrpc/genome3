@@ -1,0 +1,2 @@
+In this repo, you can find our exercises as well as a picture of the parameter settings we kept for the plot with the slider.
+Participants: Srijanani Thandaveswaran, Alice Trigon-Pacalet, Jonathan Carlucci.
